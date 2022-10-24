@@ -8,9 +8,9 @@ This is an Android Application which is built in Java in Android Studio. This ap
 
 ## 🌐 Number Cruncher [Android App]
 
-<img align="left" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlnM3YjpniGGri7ROz3qMNo0HOkrhU_tshIMuaQC2a21izPrer2XF1FmelYcxDEINRppTKbnM-vrAajKCISlyk1jr_dZ67h17SPW_uBb2QW18_BFcp1zvb1l_rdasB-T8QyQPwUS17hmn4ixI00LYfm-JsZIt-Kaf5Dgy490_EjCHvagIkWn4gLtze/s1920/1.png">
-<img align="center" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyJr8vcHqsgy3yF87nS23mn9eUMmoOLIXQ06sBRHgCedkPCMgJFha_a7mk6vg93c56bC4y0qy65bpe_1nP6wqaMJXr6y2Yg3-014ppBG7Go6LwDnuamQjN16CcExMLsGsswl-2q1OeDkLu2PMnLWIoKRdthhOQcdNorSBNtaQI5YmtIjTX7r8AuSue/s1920/2.png">
-<img align="center" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKZO7nVaXRGmIhc-EMV4Ng8LVs95L5NVkek_AXtEct5bEe6GFj6FGnsrU4MCNwaKn_MjLFo_w9GiQleDM93pLW8FqCJ7PcXpFLFGm399ray1_yJpgAsED-DWtngl5_F1yTnHR4RdZToHHpXw9tOneOssd2GDfFaPYpU3yCG3bYOHSO2IHQPwLuaALS/s1920/3.png">
+<img align="left" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bIPKpnbSVexWM5nhq_i2-GGJ0N79y842e13URpBUXZ64JdHew6PG_ZaZ3YURGtoO52WdulScXlkvMnCxvAiybgG5ZkdaVOIGp4wHpfiZyImIKhLcOhinhkVV0SxYgDqPVxAFr6vdaP68d1M-XlIckC1kFu_ukf-cCn8WszdHyQMk4Pm9Lrf76PPr/s1280/Number%20Cruncher%20-%20Shahbaz%20Hussain.gif">
+<img align="center" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1u_V_Wxzaa9UOs_V5GgWmZA8IOjvXq9YBGpaAapyNhG_COL9DQkdP2oCcqBm6kig8xsQCWORZ-GvhYXhmrWSdV6JVJjhwbRyx3U7UNDqWGcX3RudGHciEXOkvHhJpH1yfjWSV8K1n-z_WWV2X-tb1mnR1_t1pbIt-7yY8lpTTd7fuL1xzMIrqhSD/s1280/Number%20Cruncher%20-%20Android.gif">
+<img align="center" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq3es-VtqBMhq-4ekfhmLv1DiMy-MqLF6kbdTyiStCrv06LcybhHqS_NQU2YEMJK9Bt0HHQo68zc37ft07-QMf9h-eD9V2dILU7P3l5ZUeWr-EAeo5QzbXEwDhTG5nLquG59yyuV3QV8QMjDqHLDeDKNcd8oqhNrfVOX-QdfBEhi2o2ZyHoBMaESJz/s320/Number%20Cruncher%20-%20App.gif">
 
 # 📲 About App
 
