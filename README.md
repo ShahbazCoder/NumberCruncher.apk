@@ -8,11 +8,6 @@ This is an Android Application which is built in Java in Android Studio. This ap
 
 ## 🌐 Number Cruncher [Android App]
 
-<img align="right" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bIPKpnbSVexWM5nhq_i2-GGJ0N79y842e13URpBUXZ64JdHew6PG_ZaZ3YURGtoO52WdulScXlkvMnCxvAiybgG5ZkdaVOIGp4wHpfiZyImIKhLcOhinhkVV0SxYgDqPVxAFr6vdaP68d1M-XlIckC1kFu_ukf-cCn8WszdHyQMk4Pm9Lrf76PPr/s1280/Number%20Cruncher%20-%20Shahbaz%20Hussain.gif">
-
-<img align="right" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1u_V_Wxzaa9UOs_V5GgWmZA8IOjvXq9YBGpaAapyNhG_COL9DQkdP2oCcqBm6kig8xsQCWORZ-GvhYXhmrWSdV6JVJjhwbRyx3U7UNDqWGcX3RudGHciEXOkvHhJpH1yfjWSV8K1n-z_WWV2X-tb1mnR1_t1pbIt-7yY8lpTTd7fuL1xzMIrqhSD/s1280/Number%20Cruncher%20-%20Android.gif">
-
-<img align="right" alt="Coding" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq3es-VtqBMhq-4ekfhmLv1DiMy-MqLF6kbdTyiStCrv06LcybhHqS_NQU2YEMJK9Bt0HHQo68zc37ft07-QMf9h-eD9V2dILU7P3l5ZUeWr-EAeo5QzbXEwDhTG5nLquG59yyuV3QV8QMjDqHLDeDKNcd8oqhNrfVOX-QdfBEhi2o2ZyHoBMaESJz/s320/Number%20Cruncher%20-%20App.gif">
 
 # 📲 About App
 
